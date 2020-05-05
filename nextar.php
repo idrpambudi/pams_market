@@ -46,6 +46,5 @@ class NextarDisbursement {
 }
 
 $nextar_disbursement = new NextarDisbursement();
-// echo $nextar_disbursement->get_disburse("6752634963")
 
 ?>
