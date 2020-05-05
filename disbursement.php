@@ -74,8 +74,5 @@ class DisbursementDatabaseService {
 }
 
 $disbursement_db_service = new DisbursementDatabaseService();
-// $disbursement_db_service->create_disbursement_table();
-// $disbursement_db_service->create_disbursement(6752634963, 89, "PENDING", "2020-05-05 01:49:04", "hehe", "1", "PT FLIP", "testing pam", null, "0000-01-01 00:00:00", 4000);
-// $disbursement_db_service->update_disbursement(6752634963, "STAT", "resep", "0000");
 
 ?>
